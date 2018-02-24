@@ -1,1 +1,19 @@
 /* add your CSS here */
+.card-container{
+    width: 450px;
+    margin: 25px auto;
+    border:solid 1px #ddd;
+    padding: 15px;
+    box-shadow: 10px 10px #eee;
+}
+
+.list-nostyle{
+    list-style-type: none;
+    padding: 0;
+    margin-top: 10px;
+}
+.description-container{
+    margin-top: 15px;
+    border:solid 1px #ddd;
+    padding: 10px;
+}
